@@ -1,0 +1,3 @@
+C:/Users/Alefan/Documents/learn/cpp/003-guess-the-number-game/build/CMakeFiles/a.dir
+C:/Users/Alefan/Documents/learn/cpp/003-guess-the-number-game/build/CMakeFiles/edit_cache.dir
+C:/Users/Alefan/Documents/learn/cpp/003-guess-the-number-game/build/CMakeFiles/rebuild_cache.dir

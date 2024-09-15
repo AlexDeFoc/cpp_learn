@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/Alefan/Documents/learn/cpp/004-win-x-and-o-against-cpu/build",
+	"dir-cur-src" : "C:/Users/Alefan/Documents/learn/cpp/004-win-x-and-o-against-cpu",
+	"dir-top-bld" : "C:/Users/Alefan/Documents/learn/cpp/004-win-x-and-o-against-cpu/build",
+	"dir-top-src" : "C:/Users/Alefan/Documents/learn/cpp/004-win-x-and-o-against-cpu",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Alefan/Documents/learn/cpp/004-win-x-and-o-against-cpu/build/CMakeFiles/a.dir"
+}

@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/Alefan/Documents/learn/cpp/005-x-o-custom/build",
+	"dir-cur-src" : "C:/Users/Alefan/Documents/learn/cpp/005-x-o-custom",
+	"dir-top-bld" : "C:/Users/Alefan/Documents/learn/cpp/005-x-o-custom/build",
+	"dir-top-src" : "C:/Users/Alefan/Documents/learn/cpp/005-x-o-custom",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Alefan/Documents/learn/cpp/005-x-o-custom/build/CMakeFiles/a.dir"
+}

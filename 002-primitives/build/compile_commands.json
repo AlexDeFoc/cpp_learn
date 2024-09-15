@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Alefan/Documents/learn/cpp/002-primitives/build",
+  "command": "C:\\App\\MSYS2\\mingw64\\bin\\g++.exe -std=gnu++17 -o CMakeFiles\\a.dir\\main.cpp.obj -c C:\\Users\\Alefan\\Documents\\learn\\cpp\\002-primitives\\main.cpp",
+  "file": "C:\\Users\\Alefan\\Documents\\learn\\cpp\\002-primitives\\main.cpp",
+  "output": "CMakeFiles\\a.dir\\main.cpp.obj"
+}
+]

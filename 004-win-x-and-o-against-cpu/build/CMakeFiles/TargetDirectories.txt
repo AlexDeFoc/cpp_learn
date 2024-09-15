@@ -1,0 +1,3 @@
+C:/Users/Alefan/Documents/learn/cpp/004-win-x-and-o-against-cpu/build/CMakeFiles/a.dir
+C:/Users/Alefan/Documents/learn/cpp/004-win-x-and-o-against-cpu/build/CMakeFiles/edit_cache.dir
+C:/Users/Alefan/Documents/learn/cpp/004-win-x-and-o-against-cpu/build/CMakeFiles/rebuild_cache.dir

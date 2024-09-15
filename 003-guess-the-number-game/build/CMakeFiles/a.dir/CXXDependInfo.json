@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/Alefan/Documents/learn/cpp/003-guess-the-number-game/build",
+	"dir-cur-src" : "C:/Users/Alefan/Documents/learn/cpp/003-guess-the-number-game",
+	"dir-top-bld" : "C:/Users/Alefan/Documents/learn/cpp/003-guess-the-number-game/build",
+	"dir-top-src" : "C:/Users/Alefan/Documents/learn/cpp/003-guess-the-number-game",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Alefan/Documents/learn/cpp/003-guess-the-number-game/build/CMakeFiles/a.dir"
+}
