@@ -1,0 +1,7 @@
+[
+    {
+        "directory": "/c/doc/learn/cpp/glfw-vulkan",
+        "command": "clang++ -o bin//main.exe src/main.cpp -L src/lib -lglfw3dll -I src/include",
+        "file": "src/main.cpp"
+    }
+]
