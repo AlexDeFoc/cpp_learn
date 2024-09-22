@@ -1,0 +1,6 @@
+-I
+C:/App/Libraries/
+-I
+C:/App/Libraries/glfw/include
+-I
+C:/App/Libraries/VulkanSDK/1.3.290.0/Include
