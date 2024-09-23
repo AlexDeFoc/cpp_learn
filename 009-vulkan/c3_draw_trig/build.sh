@@ -4,6 +4,9 @@
 bin="bin/"
 exe="$bin/main.exe"
 
+# CXX Version
+version="-std=c++17"
+
 # Third-party headers
 H_glm="C:/App/Libraries"
 H_glfw="C:/App/Libraries/glfw/include"
@@ -22,5 +25,17 @@ main="src/main.cpp"
 # Create bin directory if it doesn't exist
 mkdir -p $bin
 
-# Compile & link command (compiling all source files into one executable)
-clang++ -o $exe $main -I $H_glm -I $H_glfw -I $H_vulkan -L $L_glfw -l $l_glfw -L $L_vulkan -l $l_vulkan
+# Define macros
+mode="" # Default to debug mode (no NDEBUG)
+
+# Check if "release" is passed as an argument to trigger release mode
+if [ "$1" == "release" ]; then
+    mode="NDEBUG"
+fi
+
+# Compile & link command
+if [ -n "$mode" ]; then
+    clang++ -o $exe $main -I $H_glm -I $H_glfw -I $H_vulkan -L $L_glfw -l $l_glfw -L $L_vulkan -l $l_vulkan $version -D $mode
+else
+    clang++ -o $exe $main -I $H_glm -I $H_glfw -I $H_vulkan -L $L_glfw -l $l_glfw -L $L_vulkan -l $l_vulkan $version
+fi

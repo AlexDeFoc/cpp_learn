@@ -1,0 +1,11 @@
+-I
+./src/config.h
+
+-I
+./dependencies/include
+
+./dependencies/lib/GLFW/glfw3dll.lib
+./dependencies/src/glad.c
+
+-std=c++17
+-xc++
