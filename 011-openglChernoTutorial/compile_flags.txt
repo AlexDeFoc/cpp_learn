@@ -1,4 +1,0 @@
--I
-./dependencies/headers/
-
--std=c++17

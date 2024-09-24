@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cmake -DGLFW_BUILD_EXAMPLES=OFF -DGLFW_BUILD_TESTS=OFF -DGLFW_BUILD_DOCS=OFF -DGLFW_INSTALL=OFF -S . -B build -G "Unix Makefiles"
